@@ -1,0 +1,21 @@
+{
+  "exportUnixTimestamp" : "1551468387",
+  "projectName" : "Pizza plane tracker ",
+  "exportDate" : "2019-03-01T19:26:27Z",
+  "projectFileVersion" : {
+    "prod" : 55,
+    "dev" : 0,
+    "patch" : 0
+  },
+  "files" : {
+    "project" : "Pizza plane tracker .arprojpkg",
+    "pvr" : "Pizza plane tracker @pvr.arfx",
+    "etc" : "Pizza plane tracker @etc.arfx",
+    "basic" : "Pizza plane tracker @uncompressed.arfx"
+  },
+  "editorVersion" : {
+    "version" : "55.2.0.7.212",
+    "buid" : "142146118",
+    "environment" : "Release"
+  }
+}
